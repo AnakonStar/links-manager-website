@@ -18,7 +18,7 @@ Filho:
     left: 10px;
     position: absolute;
 ```
-Caso eu queira adicionar algum item e que ele fique fixado, absoluto em algum canto da sua div e não da tela, você deve adicionar ```css position: relative``` como propriedade no CSS do pai daquele item.
+Caso eu queira adicionar algum item e que ele fique fixado, absoluto em algum canto da sua div e não da tela, você deve adicionar ```position: relative``` como propriedade no CSS do pai daquele item.
 
 Para fixar: 
 
